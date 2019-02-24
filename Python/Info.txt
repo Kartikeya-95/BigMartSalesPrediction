@@ -1,1 +1,2 @@
-
+This folder contains jupyter files having Exploratory Data Analysis and Model Training code.
+The code is with proper comments and information about what has been done is provided in the files itself.
